@@ -17,6 +17,7 @@ import static io.restassured.RestAssured.given;
                     // Проверки
                     .then()
                     .statusCode(200);
+
         }
     }
 
